@@ -1,1 +1,1 @@
-# Nagios install script
+# Nagios installation for a ubuntu server 
